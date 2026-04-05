@@ -18,9 +18,8 @@ function App() {
 
   return (
     <div className="container">
-      <h1>Todo App</h1>
-
-      <div className="input-group">
+      <h1>CI/CD-Working</h1>
+         <div className="input-group">
         <input
           type="text"
           placeholder="Enter task"
