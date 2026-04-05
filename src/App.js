@@ -18,7 +18,7 @@ function App() {
 
   return (
     <div className="container">
-      <h1>CI/CD-Working</h1>
+      <h1>CI/CD-Working todo app</h1>
          <div className="input-group">
         <input
           type="text"
