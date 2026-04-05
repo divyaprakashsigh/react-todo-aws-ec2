@@ -30,5 +30,6 @@ jobs:
         host: 3.93.52.143
         username: ubuntu
         key: ${{ secrets.EC2_SSH_KEY }}
+        port: 22
         source: "build/*"
         target: "/var/www/html/"
